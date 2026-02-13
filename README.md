@@ -4,7 +4,7 @@ Adam who? Why not let a cutting-edge LLM decide your next weight update?
 ![snapshot of the system prompt for GradGPT](https://raw.githubusercontent.com/ronitkunk/GradGPT/main/banner.png)
 
 ### How to use it in 1-2-3
-- Install this package from [PyPI](pypi.org/project/gradgpt)
+- Install this package from [PyPI](https://pypi.org/project/gradgpt)
 ```sh
 pip install gradgpt
 ```

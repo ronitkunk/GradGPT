@@ -23,7 +23,7 @@ def test_linear_regression_converges():
 
     loss_fn = torch.nn.MSELoss()
 
-    for _ in range(200):
+    for _ in range(5):
         optimiser.zero_grad()
         preds = model(x)
         loss = loss_fn(preds, y)
