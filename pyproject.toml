@@ -1,6 +1,6 @@
 [project]
 name = "gradgpt"
-version = "0.1.0"
+version = "0.1.2"
 description = "Adam who? Why not let a cutting-edge LLM decide your next weight update?"
 authors = [{ name = "Ronit Kunkolienker", email = "ronitkunk@gmail.com" }]
 readme = "README.md"

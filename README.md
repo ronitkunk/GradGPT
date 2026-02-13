@@ -14,10 +14,10 @@ import gradgpt
 ```
 - You can now use it like any other PyTorch optimiser! E.g. in theory, you *could* replace:
 ```
-torch.optim.SGD(lr=1e-3)
+torch.optim.SGD(lr=1e-2, momentum=0.99)
 ```
 with:
 ```
-gradgpt.GradGPT(llm="gpt-5")
+gradgpt.GradGPT(llm="gpt-5", llm_provider="openai")
 ```
 **Disclaimer:** Let it be on the record that I said you *can*, not you *should*.
