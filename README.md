@@ -15,10 +15,10 @@ pip install gradgpt
 ```python
 import gradgpt
 ```
-- You can now use it like any other PyTorch optimiser! E.g. in theory, you *could* replace:
+- You can now use it like any other PyTorch optimiser!
 ```python
 optimiser = gradgpt.GradGPT(llm="gpt-5", llm_provider="openai")
-# is a 
+# is a torch.optim.Optimizer
 ```
 
 **Disclaimer:** Let it be on the record that I said you *can*, not you *should*.
