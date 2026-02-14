@@ -1,5 +1,5 @@
 # GradGPT
-Adam who? Why not let a cutting-edge LLM decide your next weight update?
+Adam who? Let a cutting-edge LLM be your next PyTorch optimiser.
 
 ![snapshot of the system prompt for GradGPT](https://raw.githubusercontent.com/ronitkunk/GradGPT/main/banner.png)
 

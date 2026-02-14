@@ -1,7 +1,7 @@
 [project]
 name = "gradgpt"
-version = "0.1.2"
-description = "Adam who? Why not let a cutting-edge LLM decide your next weight update?"
+version = "0.1.3"
+description = "Adam who? Let a cutting-edge LLM be your next PyTorch optimiser."
 authors = [{ name = "Ronit Kunkolienker", email = "ronitkunk@gmail.com" }]
 readme = "README.md"
 license = { file = "LICENSE.txt" }
